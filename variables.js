@@ -48,4 +48,4 @@ console.log(hebJeScreamMachines);
 // ==========================================
 // 8. Gebruik jouw variabelen nu om hun waardes te loggen in de terminal. Klopt het allemaal?
 // ==========================================
-//******* ja, alles klopt. ********
+//******* ja, alles klopt! ********
